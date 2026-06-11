@@ -21,9 +21,9 @@ public class Praveen : SoftwareEngineer
 {
     public string Name        => "Praveenkumar Murugesan";
     public string Location    => "India 🇮🇳";
-    public string Degree      => "B.E. in CSE — Dhirajlal Gandhi College of Engg";
+    public string Degree      => "B.E. in CSE — Dhirajlal Gandhi College of Technology";
     public double CGPA        => 8.4;
-    public string Role        => ".NET Developer @ RheinBrücke IT Consulting";
+    public string Role        => "SDE .NET Developer @ Societe Generale";
 
     public string[] Stack => new[]
     {
